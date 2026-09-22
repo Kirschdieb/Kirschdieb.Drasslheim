@@ -30,6 +30,11 @@
       "Biome" : "Icelands",
       "Min" : 1.3,
       "Max" : 2.1
+    },
+    {
+      "Biome" : "Ruins",
+      "Min" : 2.2,
+      "Max" : 2.5
     }
   ],
   "DefaultBiome": "Basic",

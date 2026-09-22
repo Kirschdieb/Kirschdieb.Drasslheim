@@ -4,7 +4,6 @@
     "$binary": "atdOgqldRXqHnNhfxCEKbg==",
     "$type": "04"
   },
-  "Seed": 1782975674367,
   "WorldGen": {
     "Type": "HytaleGenerator",
     "WorldStructure": "Biomemap"
