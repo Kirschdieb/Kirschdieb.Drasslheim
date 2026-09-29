@@ -1,9 +1,14 @@
 {
   "Type": "NoiseRange",
   "Biomes": [
+	{
+      "Biome" : "OceanSkies",
+      "Min" : -2,
+      "Max" : 0
+    },
     {
       "Biome" : "Oceans_Numdrassl",
-      "Min" : -2,
+      "Min" : 0,
       "Max" : 0.5
     },
     {

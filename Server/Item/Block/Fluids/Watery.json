@@ -1,0 +1,9 @@
+{
+  "Parent": "Water_Source_Floating",
+  "MaxFluidLevel": 8,
+  "Ticker": {
+    "FlowRate": 99999,
+    "CanDemote": false,
+    "SupportedBy": "Water_Source_Floating"
+  }
+}
