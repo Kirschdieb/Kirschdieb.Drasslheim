@@ -1,6 +1,7 @@
 {
   "Environments": [
-    "Env_Numdrassl_Continental"
+    "Env_Numdrassl_Forest",
+    "Env_Numdrassl_Mountains"
   ],
   "NPCs": [
     {

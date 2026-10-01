@@ -1,0 +1,21 @@
+{
+  "Environments": [
+    "Env_Numdrassl_Pillars"
+  ],
+  "NPCs": [
+    {
+      "Weight": 10,
+      "SpawnBlockSet": "Grass",
+      "Id": "Flamingo"
+    },
+    {
+      "Weight": 10,
+      "SpawnBlockSet": "Soil",
+      "Id": "Tortoise"
+    }
+  ],
+  "DayTimeRange": [
+    6,
+    18
+  ]
+}

@@ -5589,7 +5589,7 @@
 					"$NodeId":	"Constant.EnvironmentProvider-c4606693-1661-4691-9b17-ebce2f19b04b",
 					"Type":	"Constant",
 					"Skip":	false,
-					"Environment":	"Env_Numdrassl_Continental"
+					"Environment":	"Env_Numdrassl_Pillars"
 				},
 				"Range":	{
 					"$NodeId":	"Decimal.Range-7c7bd14f-3812-49c4-8e65-751d5cd05822",
@@ -7181,6 +7181,24 @@
 				"$Position":	{
 					"$x":	14000,
 					"$y":	-25180
+				}
+			},
+			"Multiplier.Density-1fdbd0b1-0da3-4f10-b062-01160c02fc87":	{
+				"$Position":	{
+					"$x":	13996,
+					"$y":	-24941
+				}
+			},
+			"SimplexNoise2D.Density-f2d17928-b3d9-48c0-97f8-1d1d8fc08662":	{
+				"$Position":	{
+					"$x":	14612,
+					"$y":	-24941
+				}
+			},
+			"Constant.Density-06e96fad-a881-41c0-8143-6a3a2507d8cd":	{
+				"$Position":	{
+					"$x":	13996,
+					"$y":	-24808
 				}
 			},
 			"CurveMapper.Density-bf75fd36-7ff5-4294-ab1a-2beb0cfa5e35":	{
@@ -12083,24 +12101,6 @@
 				"$Position":	{
 					"$x":	10369,
 					"$y":	-7386
-				}
-			},
-			"Multiplier.Density-1fdbd0b1-0da3-4f10-b062-01160c02fc87":	{
-				"$Position":	{
-					"$x":	13996,
-					"$y":	-24941
-				}
-			},
-			"SimplexNoise2D.Density-f2d17928-b3d9-48c0-97f8-1d1d8fc08662":	{
-				"$Position":	{
-					"$x":	14612,
-					"$y":	-24941
-				}
-			},
-			"Constant.Density-06e96fad-a881-41c0-8143-6a3a2507d8cd":	{
-				"$Position":	{
-					"$x":	13996,
-					"$y":	-24808
 				}
 			},
 			"Delimiter.DensitySelector.Prop-ef0b2c6b-a824-406e-9957-a07d016aad2b":	{
