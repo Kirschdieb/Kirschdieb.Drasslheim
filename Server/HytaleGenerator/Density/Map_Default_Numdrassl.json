@@ -840,6 +840,12 @@
 					"$y":	-6507
 				}
 			},
+			"MultiMix.Density-8eefdd0f-084c-45cf-ab28-8f86e6101e1e":	{
+				"$Position":	{
+					"$x":	-8516,
+					"$y":	-6509
+				}
+			},
 			"Mix.Density-5383b70e-ac94-446c-a0f7-f86948119733":	{
 				"$Position":	{
 					"$x":	-6852,
@@ -986,104 +992,104 @@
 			},
 			"Normalizer.Density-0aa73214-bee7-4fe2-b1cc-ba8cbd014b91":	{
 				"$Position":	{
-					"$x":	5235,
-					"$y":	-12923
+					"$x":	4176,
+					"$y":	-12936
 				}
 			},
 			"YOverride.Density-28a850a6-b062-400d-8a32-8bafbe3da85a":	{
 				"$Position":	{
-					"$x":	5898,
-					"$y":	-12942
+					"$x":	4839,
+					"$y":	-12955
 				}
 			},
 			"Cache.Density-49ef12ac-2e84-4d58-8cbc-45537cb6ca8b":	{
 				"$Position":	{
-					"$x":	6471,
-					"$y":	-12943
+					"$x":	5412,
+					"$y":	-12956
 				}
 			},
 			"FastGradientWarp.Density-67e66c8a-250e-4638-8896-c41f4e0a90dd":	{
 				"$Position":	{
-					"$x":	7668,
-					"$y":	-12971
+					"$x":	6609,
+					"$y":	-12984
 				}
 			},
 			"PositionsCellNoise.Density-aaebb8f5-87ea-46ec-a979-a302f113f980":	{
 				"$Position":	{
-					"$x":	8547,
-					"$y":	-12988
+					"$x":	7488,
+					"$y":	-13001
 				}
 			},
 			"Imported.Positions-18e3160f-3c38-4861-b0a6-526bb85ab231":	{
 				"$Position":	{
-					"$x":	9390,
-					"$y":	-13206
+					"$x":	8331,
+					"$y":	-13219
 				}
 			},
 			"CellValue.ReturnType.PositionsCellNoise.Density-1820523d-07ea-4ec6-a55f-4da84afd2e27":	{
 				"$Position":	{
-					"$x":	9299,
-					"$y":	-12807
+					"$x":	8240,
+					"$y":	-12820
 				}
 			},
 			"CurveMapper.Density-ded2fbc1-7920-482e-b012-2aa5fa811fcc":	{
 				"$Position":	{
-					"$x":	10063,
-					"$y":	-12480
+					"$x":	9004,
+					"$y":	-12493
 				}
 			},
 			"Manual.Curve-10ddb0f1-d06f-4c4e-8421-531e660c44dd":	{
 				"$Position":	{
-					"$x":	10707,
-					"$y":	-12327
+					"$x":	9648,
+					"$y":	-12340
 				}
 			},
 			"CurvePoint.Curve-bc79807f-6a1e-47b5-b67f-43bff94770b0":	{
 				"$Position":	{
-					"$x":	11674,
-					"$y":	-12542
+					"$x":	10615,
+					"$y":	-12555
 				}
 			},
 			"CurvePoint.Curve-f8dbad3f-3585-4db3-a4cf-aa21a75809cc":	{
 				"$Position":	{
-					"$x":	11676,
-					"$y":	-12400
+					"$x":	10617,
+					"$y":	-12413
 				}
 			},
 			"CurvePoint.Curve-510dcd8c-acc1-46b7-ae0f-fb1c34038762":	{
 				"$Position":	{
-					"$x":	11677,
-					"$y":	-12257
+					"$x":	10618,
+					"$y":	-12270
 				}
 			},
 			"CurvePoint.Curve-8838b148-abef-474d-b6aa-e024aa8d85f9":	{
 				"$Position":	{
-					"$x":	11675,
-					"$y":	-12114
+					"$x":	10616,
+					"$y":	-12127
 				}
 			},
 			"CurvePoint.Curve-073212da-fed7-48cd-87d9-8cf83e15a7de":	{
 				"$Position":	{
-					"$x":	11675,
-					"$y":	-11973
+					"$x":	10616,
+					"$y":	-11986
 				}
 			},
 			"CurvePoint.Curve-138e9fb3-f72e-4c23-a71f-9031bdd317ad":	{
 				"$Position":	{
-					"$x":	11674,
-					"$y":	-11831
+					"$x":	10615,
+					"$y":	-11844
 				}
 			},
 			"SimplexNoise2D.Density-0fa007c7-11a5-4abe-b371-e71565eefd0f":	{
 				"$Position":	{
-					"$x":	10707,
-					"$y":	-12828
+					"$x":	9648,
+					"$y":	-12841
 				}
 			},
 			"DistanceFunction.PositionsCellNoise.Density-915c3ef1-085a-4d08-b619-e6029618375b":	{
 				"$Position":	{
-					"$x":	9299,
-					"$y":	-12966
+					"$x":	8240,
+					"$y":	-12979
 				}
 			},
 			"Normalizer.Density-26c10f45-e046-45e8-b4fe-a61f66d9b3c3":	{
@@ -1410,6 +1416,48 @@
 					"$y":	-8616
 				}
 			},
+			"YOverride.Density-17513a79-a826-4b7a-8474-f32a1c0b74ce":	{
+				"$Position":	{
+					"$x":	-6077,
+					"$y":	-6882
+				}
+			},
+			"Cache.Density-1bd9e47e-be87-48ba-9e82-0f09f98ab3d4":	{
+				"$Position":	{
+					"$x":	-5470,
+					"$y":	-6884
+				}
+			},
+			"FastGradientWarp.Density-6d4ee566-8875-4440-95a1-f073796a8dc9":	{
+				"$Position":	{
+					"$x":	-4863,
+					"$y":	-6883
+				}
+			},
+			"Distance.Density-143aba9a-f577-4685-8f62-b26398129a15":	{
+				"$Position":	{
+					"$x":	-4148,
+					"$y":	-6882
+				}
+			},
+			"Manual.Curve-e1400e4a-e727-46f9-8010-32ab481235ea":	{
+				"$Position":	{
+					"$x":	-3535,
+					"$y":	-6881
+				}
+			},
+			"CurvePoint.Curve-9700f01f-2c1d-4e55-b907-58d3fe8639dc":	{
+				"$Position":	{
+					"$x":	-2589,
+					"$y":	-6884
+				}
+			},
+			"CurvePoint.Curve-9c8c46c6-bb30-4251-b786-22b38f9b67f4":	{
+				"$Position":	{
+					"$x":	-2589,
+					"$y":	-6751
+				}
+			},
 			"Clamp.Density-236b1e3e-8473-42c2-a1eb-ef2d7d09fa4e":	{
 				"$Position":	{
 					"$x":	-6036,
@@ -1518,66 +1566,6 @@
 					"$y":	-4459
 				}
 			},
-			"Curve.ReturnType.PositionsCellNoise.Density-58235c01-0521-4600-9d18-98a3b669205d":	{
-				"$Position":	{
-					"$x":	10944,
-					"$y":	-10318
-				}
-			},
-			"DistanceExponential.Curve-a5c4f04f-490f-4ed0-8c9e-e4497585abb4":	{
-				"$Position":	{
-					"$x":	11240,
-					"$y":	-10309
-				}
-			},
-			"MultiMix.Density-8eefdd0f-084c-45cf-ab28-8f86e6101e1e":	{
-				"$Position":	{
-					"$x":	-8516,
-					"$y":	-6509
-				}
-			},
-			"YOverride.Density-17513a79-a826-4b7a-8474-f32a1c0b74ce":	{
-				"$Position":	{
-					"$x":	-6077,
-					"$y":	-6882
-				}
-			},
-			"Cache.Density-1bd9e47e-be87-48ba-9e82-0f09f98ab3d4":	{
-				"$Position":	{
-					"$x":	-5470,
-					"$y":	-6884
-				}
-			},
-			"FastGradientWarp.Density-6d4ee566-8875-4440-95a1-f073796a8dc9":	{
-				"$Position":	{
-					"$x":	-4863,
-					"$y":	-6883
-				}
-			},
-			"Distance.Density-143aba9a-f577-4685-8f62-b26398129a15":	{
-				"$Position":	{
-					"$x":	-4148,
-					"$y":	-6882
-				}
-			},
-			"Manual.Curve-e1400e4a-e727-46f9-8010-32ab481235ea":	{
-				"$Position":	{
-					"$x":	-3535,
-					"$y":	-6881
-				}
-			},
-			"CurvePoint.Curve-9700f01f-2c1d-4e55-b907-58d3fe8639dc":	{
-				"$Position":	{
-					"$x":	-2589,
-					"$y":	-6884
-				}
-			},
-			"CurvePoint.Curve-9c8c46c6-bb30-4251-b786-22b38f9b67f4":	{
-				"$Position":	{
-					"$x":	-2589,
-					"$y":	-6751
-				}
-			},
 			"YOverride.Density-78d7f678-d826-4e8b-8384-8de98faf4405":	{
 				"$Position":	{
 					"$x":	-6106,
@@ -1649,6 +1637,18 @@
 					"$x":	-7862,
 					"$y":	-5079
 				}
+			},
+			"Curve.ReturnType.PositionsCellNoise.Density-58235c01-0521-4600-9d18-98a3b669205d":	{
+				"$Position":	{
+					"$x":	10944,
+					"$y":	-10318
+				}
+			},
+			"DistanceExponential.Curve-a5c4f04f-490f-4ed0-8c9e-e4497585abb4":	{
+				"$Position":	{
+					"$x":	11240,
+					"$y":	-10309
+				}
 			}
 		},
 		"$FloatingNodes":	[{
@@ -1705,8 +1705,8 @@
 				"$name":	"Land Guarantee"
 			}, {
 				"$Position":	{
-					"$x":	11577.375,
-					"$y":	-12656.9375
+					"$x":	10519.125,
+					"$y":	-12670.6875
 				},
 				"$width":	573.4375,
 				"$height":	1052.625,

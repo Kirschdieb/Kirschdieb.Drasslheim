@@ -1,0 +1,109 @@
+{
+	"$NodeId":	"Exported.Density-ed27c3c9-2416-4644-ac84-4e381c084b99",
+	"Type":	"Exported",
+	"ExportAs":	"Ore_Density_Numdrassl",
+	"SingleInstance":	true,
+	"Skip":	false,
+	"Inputs":	[{
+			"$NodeId":	"YSampled.Density-454ee7fc-3f1c-40cf-a536-9a2544c42a54",
+			"Type":	"YSampled",
+			"Skip":	false,
+			"SampleDistance":	8,
+			"SampleOffset":	0,
+			"Interpolate":	true,
+			"Inputs":	[{
+					"$NodeId":	"Normalizer.Density-58d22a15-8a7b-46bf-99d1-4d2dd291336a",
+					"Type":	"Normalizer",
+					"Skip":	false,
+					"FromMin":	0,
+					"FromMax":	1,
+					"ToMin":	-1,
+					"ToMax":	0.15,
+					"Inputs":	[{
+							"$NodeId":	"Inverter.Density-16442f58-0207-4131-bd9d-6e0df55090e9",
+							"Type":	"Inverter",
+							"Skip":	false,
+							"Inputs":	[{
+									"$NodeId":	"CellNoise3D.Density-00d276e1-51dc-4169-9f35-4a8f1ff848f0",
+									"Type":	"CellNoise3D",
+									"Skip":	false,
+									"ScaleX":	10,
+									"ScaleY":	15,
+									"ScaleZ":	10,
+									"Jitter":	0.7,
+									"CellType":	"Distance",
+									"Octaves":	1
+								}]
+						}]
+				}]
+		}],
+	"$NodeEditorMetadata":	{
+		"$Nodes":	{
+			"Exported.Density-ed27c3c9-2416-4644-ac84-4e381c084b99":	{
+				"$Position":	{
+					"$x":	-11887,
+					"$y":	-5821
+				},
+				"$Title":	"[ROOT] Exported Density"
+			},
+			"YSampled.Density-454ee7fc-3f1c-40cf-a536-9a2544c42a54":	{
+				"$Position":	{
+					"$x":	-11212,
+					"$y":	-5821
+				}
+			},
+			"Normalizer.Density-58d22a15-8a7b-46bf-99d1-4d2dd291336a":	{
+				"$Position":	{
+					"$x":	-10602,
+					"$y":	-5821
+				}
+			},
+			"Inverter.Density-16442f58-0207-4131-bd9d-6e0df55090e9":	{
+				"$Position":	{
+					"$x":	-9988,
+					"$y":	-5821
+				}
+			},
+			"CellNoise3D.Density-00d276e1-51dc-4169-9f35-4a8f1ff848f0":	{
+				"$Position":	{
+					"$x":	-9373,
+					"$y":	-5821
+				}
+			}
+		},
+		"$FloatingNodes":	[],
+		"$Links":	{
+		},
+		"$Groups":	[],
+		"$Comments":	[{
+				"$Position":	{
+					"$x":	750337,
+					"$y":	743170.5
+				},
+				"$width":	1520.6875,
+				"$height":	386.875,
+				"$name":	"Comment",
+				"$text":	"Use the river noise as the controller to save performance, mixing in a solid -0.3",
+				"$fontSize":	53
+			}, {
+				"$Position":	{
+					"$x":	748431.625,
+					"$y":	745456.75
+				},
+				"$width":	250,
+				"$height":	150,
+				"$name":	"Comment",
+				"$text":	""
+			}, {
+				"$Position":	{
+					"$x":	746517.375,
+					"$y":	743579.5
+				},
+				"$width":	250,
+				"$height":	150,
+				"$name":	"Comment",
+				"$text":	""
+			}],
+		"$WorkspaceID":	"HytaleGenerator - Density"
+	}
+}
