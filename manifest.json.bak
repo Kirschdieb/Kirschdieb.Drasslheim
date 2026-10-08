@@ -1,8 +1,7 @@
 {
   "Group": "Kirschdieb",
   "Name": "Numdrassl",
-  "Version": "0.5.0-beta",
-  "Description": "",
+  "Version": "1.0.0",
   "Authors": [
     {
       "Name": "Kirschdieb",
@@ -10,8 +9,7 @@
       "Url": ""
     }
   ],
-  "Website": "",
-  "ServerVersion": ">=0.7.0-pre <0.8.0",
+  "ServerVersion": "*",
   "Dependencies": {},
   "OptionalDependencies": {},
   "LoadBefore": {},

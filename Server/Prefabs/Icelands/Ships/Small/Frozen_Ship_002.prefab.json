@@ -3190,56 +3190,17 @@
       "x": 0,
       "y": 4,
       "z": 0,
-      "name": "*Furniture_Crude_Chest_Small_State_Definitions_CloseWindow",
+      "name": "Block_Spawner_Block",
       "components": {
         "Components": {
-          "ItemContainerBlock": {
-            "ItemContainer": {
-              "Capacity": 18,
-              "Items": {
-                "13": {
-                  "Id": "Wood_Ash_Trunk",
-                  "Quantity": 5,
-                  "Durability": 0.0,
-                  "MaxDurability": 0.0,
-                  "Quality": 0,
-                  "OverrideDroppedItemAnimation": false
-                },
-                "10": {
-                  "Id": "Weapon_Sword_Copper",
-                  "Quantity": 1,
-                  "Durability": 100.0,
-                  "MaxDurability": 100.0,
-                  "Quality": 11,
-                  "OverrideDroppedItemAnimation": false
-                },
-                "3": {
-                  "Id": "Plant_Seeds_Chilli",
-                  "Quantity": 1,
-                  "Durability": 0.0,
-                  "MaxDurability": 0.0,
-                  "Quality": 7,
-                  "OverrideDroppedItemAnimation": false
-                },
-                "5": {
-                  "Id": "Ingredient_Stick",
-                  "Quantity": 4,
-                  "Durability": 0.0,
-                  "MaxDurability": 0.0,
-                  "Quality": 0,
-                  "OverrideDroppedItemAnimation": false
-                },
-                "17": {
-                  "Id": "Ingredient_Charcoal",
-                  "Quantity": 2,
-                  "Durability": 0.0,
-                  "MaxDurability": 0.0,
-                  "Quality": 0,
-                  "OverrideDroppedItemAnimation": false
-                }
-              }
-            },
-            "Capacity": 20
+          "PlacedByInteraction": {
+            "WhoPlacedUuid": {
+              "$binary": "+u0Lek23TWiDpMOn5L2LqA==",
+              "$type": "04"
+            }
+          },
+          "BlockSpawner": {
+            "BlockSpawnerId": "Zone3_Encounters_Tier2"
           }
         }
       },
@@ -9316,56 +9277,17 @@
       "x": 18,
       "y": 7,
       "z": -3,
-      "name": "*Furniture_Village_Chest_Small_State_Definitions_CloseWindow",
+      "name": "Block_Spawner_Block",
       "components": {
         "Components": {
-          "ItemContainerBlock": {
-            "ItemContainer": {
-              "Capacity": 18,
-              "Items": {
-                "15": {
-                  "Id": "Ingredient_Hide_Medium",
-                  "Quantity": 2,
-                  "Durability": 0.0,
-                  "MaxDurability": 0.0,
-                  "Quality": 11,
-                  "OverrideDroppedItemAnimation": false
-                },
-                "14": {
-                  "Id": "Ore_Cobalt",
-                  "Quantity": 3,
-                  "Durability": 0.0,
-                  "MaxDurability": 0.0,
-                  "Quality": 0,
-                  "OverrideDroppedItemAnimation": false
-                },
-                "13": {
-                  "Id": "Plant_Seeds_Chilli",
-                  "Quantity": 1,
-                  "Durability": 0.0,
-                  "MaxDurability": 0.0,
-                  "Quality": 7,
-                  "OverrideDroppedItemAnimation": false
-                },
-                "11": {
-                  "Id": "Wood_Ice_Trunk",
-                  "Quantity": 7,
-                  "Durability": 0.0,
-                  "MaxDurability": 0.0,
-                  "Quality": 0,
-                  "OverrideDroppedItemAnimation": false
-                },
-                "7": {
-                  "Id": "Tool_Pickaxe_Copper",
-                  "Quantity": 1,
-                  "Durability": 200.0,
-                  "MaxDurability": 200.0,
-                  "Quality": 11,
-                  "OverrideDroppedItemAnimation": false
-                }
-              }
-            },
-            "Capacity": 20
+          "PlacedByInteraction": {
+            "WhoPlacedUuid": {
+              "$binary": "+u0Lek23TWiDpMOn5L2LqA==",
+              "$type": "04"
+            }
+          },
+          "BlockSpawner": {
+            "BlockSpawnerId": "Zone3_Encounters_Tier1"
           }
         }
       },

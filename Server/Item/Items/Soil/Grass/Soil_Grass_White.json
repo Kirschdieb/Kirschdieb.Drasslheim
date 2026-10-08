@@ -1,6 +1,6 @@
 {
   "TranslationProperties": {
-    "Name": "server.items.Soil_Grass.name"
+    "Name": "Grass On White Dirt"
   },
   "ItemLevel": 3,
   "Icon": "Icons/ItemsGenerated/Soil_Grass_White.png",
@@ -41,7 +41,7 @@
     "Gathering": {
       "Breaking": {
         "GatherType": "Soils",
-        "ItemId": "Soil_Dirt"
+        "ItemId": "Soil_Grass_White"
       }
     },
     "BlockParticleSetId": "Grass_Earth",

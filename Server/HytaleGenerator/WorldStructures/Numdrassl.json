@@ -49,7 +49,30 @@
     "Type" : "Imported",
     "Name" : "Biome-Map_Numdrassl"
 	},
+  "SpawnPositions" : {
+    "Type" : "Imported",
+    "Name" : "Portals-Numdrassl-Spawn"
+  },
   "Framework" : [
+    {
+      "Type" : "Positions",
+      "Entries" : [
+        {
+          "Name" : "Spawns",
+          "Positions" : {
+            "Type" : "List",
+            "ExportAs" : "Portals-Numdrassl-Spawn",
+            "Positions": [
+              {
+                "X": 0,
+                "Y": 201,
+                "Z": 0
+              }
+            ]
+          }
+        }
+      ]
+    },
     {
       "Type" : "DecimalConstants",
       "Entries" : [

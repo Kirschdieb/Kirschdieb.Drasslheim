@@ -1,6 +1,6 @@
 {
   "TranslationProperties": {
-    "Name": "server.items.Soil_Dirt.name"
+    "Name": "White Dirt"
   },
   "ItemLevel": 10,
   "Parent": "Template_Soil",

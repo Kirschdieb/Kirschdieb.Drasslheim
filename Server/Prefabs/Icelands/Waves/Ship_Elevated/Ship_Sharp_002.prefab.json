@@ -423110,6 +423110,14 @@
     },
     {
       "x": 1,
+      "y": 88,
+      "z": -2,
+      "name": "Furniture_Village_Counter",
+      "filler": 992,
+      "rotation": 3
+    },
+    {
+      "x": 1,
       "y": 89,
       "z": -2,
       "name": "Metal_Iron_Pipe_Large",
@@ -423595,6 +423603,13 @@
       "name": "Wood_Fir_Trunk_Full_Locked",
       "support": 15,
       "rotation": 5
+    },
+    {
+      "x": 1,
+      "y": 88,
+      "z": -1,
+      "name": "Furniture_Village_Counter",
+      "rotation": 3
     },
     {
       "x": 1,
@@ -429553,6 +429568,20 @@
     },
     {
       "x": 1,
+      "y": 88,
+      "z": 11,
+      "name": "Furniture_Village_Counter",
+      "rotation": 1
+    },
+    {
+      "x": 1,
+      "y": 89,
+      "z": 11,
+      "name": "Metal_Iron_Pipe_Large_Mouthpiece",
+      "rotation": 6
+    },
+    {
+      "x": 1,
       "y": 91,
       "z": 11,
       "name": "Wood_Fir_Trunk_Full_Locked",
@@ -430021,6 +430050,14 @@
       "z": 12,
       "name": "Wood_Deadwood_Planks_Half",
       "rotation": 34
+    },
+    {
+      "x": 1,
+      "y": 88,
+      "z": 12,
+      "name": "Furniture_Village_Counter",
+      "filler": 32,
+      "rotation": 1
     },
     {
       "x": 1,
@@ -494252,6 +494289,14 @@
     },
     {
       "x": 5,
+      "y": 88,
+      "z": -2,
+      "name": "Furniture_Village_Counter",
+      "filler": 992,
+      "rotation": 3
+    },
+    {
+      "x": 5,
       "y": 89,
       "z": -2,
       "name": "Metal_Iron_Pipe_Large",
@@ -494717,6 +494762,20 @@
       "name": "Wood_Fir_Trunk_Full_Locked",
       "support": 15,
       "rotation": 5
+    },
+    {
+      "x": 5,
+      "y": 88,
+      "z": -1,
+      "name": "Furniture_Village_Counter",
+      "rotation": 3
+    },
+    {
+      "x": 5,
+      "y": 89,
+      "z": -1,
+      "name": "Metal_Iron_Pipe_Large_Mouthpiece",
+      "rotation": 4
     },
     {
       "x": 5,
@@ -500754,6 +500813,13 @@
     },
     {
       "x": 5,
+      "y": 88,
+      "z": 11,
+      "name": "Furniture_Village_Counter",
+      "rotation": 1
+    },
+    {
+      "x": 5,
       "y": 89,
       "z": 11,
       "name": "Metal_Iron_Pipe_Large_Mouthpiece",
@@ -501253,6 +501319,14 @@
       "z": 12,
       "name": "Wood_Deadwood_Planks_Half",
       "rotation": 34
+    },
+    {
+      "x": 5,
+      "y": 88,
+      "z": 12,
+      "name": "Furniture_Village_Counter",
+      "filler": 32,
+      "rotation": 1
     },
     {
       "x": 5,
@@ -559657,6 +559731,14 @@
     },
     {
       "x": 9,
+      "y": 88,
+      "z": -2,
+      "name": "Furniture_Village_Counter",
+      "filler": 992,
+      "rotation": 3
+    },
+    {
+      "x": 9,
       "y": 89,
       "z": -2,
       "name": "Metal_Iron_Pipe_Large",
@@ -560110,6 +560192,13 @@
       "name": "Wood_Fir_Trunk_Full_Locked",
       "support": 15,
       "rotation": 5
+    },
+    {
+      "x": 9,
+      "y": 88,
+      "z": -1,
+      "name": "Furniture_Village_Counter",
+      "rotation": 3
     },
     {
       "x": 9,
@@ -565962,6 +566051,20 @@
     },
     {
       "x": 9,
+      "y": 88,
+      "z": 11,
+      "name": "Furniture_Village_Counter",
+      "rotation": 1
+    },
+    {
+      "x": 9,
+      "y": 89,
+      "z": 11,
+      "name": "Metal_Iron_Pipe_Large_Mouthpiece",
+      "rotation": 6
+    },
+    {
+      "x": 9,
       "y": 91,
       "z": 11,
       "name": "Wood_Fir_Trunk_Full_Locked",
@@ -566442,6 +566545,14 @@
       "z": 12,
       "name": "Wood_Deadwood_Planks_Half",
       "rotation": 34
+    },
+    {
+      "x": 9,
+      "y": 88,
+      "z": 12,
+      "name": "Furniture_Village_Counter",
+      "filler": 32,
+      "rotation": 1
     },
     {
       "x": 9,
@@ -621455,6 +621566,14 @@
     },
     {
       "x": 13,
+      "y": 88,
+      "z": -2,
+      "name": "Furniture_Village_Counter",
+      "filler": 992,
+      "rotation": 3
+    },
+    {
+      "x": 13,
       "y": 89,
       "z": -2,
       "name": "Metal_Iron_Pipe_Large",
@@ -621890,6 +622009,20 @@
       "name": "Wood_Fir_Trunk_Full_Locked",
       "support": 15,
       "rotation": 5
+    },
+    {
+      "x": 13,
+      "y": 88,
+      "z": -1,
+      "name": "Furniture_Village_Counter",
+      "rotation": 3
+    },
+    {
+      "x": 13,
+      "y": 89,
+      "z": -1,
+      "name": "Metal_Iron_Pipe_Large_Mouthpiece",
+      "rotation": 4
     },
     {
       "x": 13,
@@ -677182,6 +677315,14 @@
     },
     {
       "x": 17,
+      "y": 88,
+      "z": -2,
+      "name": "Furniture_Village_Counter",
+      "filler": 992,
+      "rotation": 3
+    },
+    {
+      "x": 17,
       "y": 89,
       "z": -2,
       "name": "Metal_Iron_Pipe_Large",
@@ -677443,6 +677584,13 @@
       "name": "Wood_Fir_Trunk_Full_Locked",
       "support": 15,
       "rotation": 5
+    },
+    {
+      "x": 17,
+      "y": 88,
+      "z": -1,
+      "name": "Furniture_Village_Counter",
+      "rotation": 3
     },
     {
       "x": 17,
@@ -682455,6 +682603,20 @@
     },
     {
       "x": 17,
+      "y": 88,
+      "z": 11,
+      "name": "Furniture_Village_Counter",
+      "rotation": 1
+    },
+    {
+      "x": 17,
+      "y": 89,
+      "z": 11,
+      "name": "Metal_Iron_Pipe_Large_Mouthpiece",
+      "rotation": 6
+    },
+    {
+      "x": 17,
       "y": 91,
       "z": 11,
       "name": "Wood_Fir_Trunk_Full_Locked",
@@ -682689,6 +682851,14 @@
       "z": 12,
       "name": "Wood_Deadwood_Planks_Half",
       "rotation": 34
+    },
+    {
+      "x": 17,
+      "y": 88,
+      "z": 12,
+      "name": "Furniture_Village_Counter",
+      "filler": 32,
+      "rotation": 1
     },
     {
       "x": 17,
@@ -718509,6 +718679,14 @@
     },
     {
       "x": 21,
+      "y": 88,
+      "z": -2,
+      "name": "Furniture_Village_Counter",
+      "filler": 992,
+      "rotation": 3
+    },
+    {
+      "x": 21,
       "y": 89,
       "z": -2,
       "name": "Metal_Iron_Pipe_Large",
@@ -718746,6 +718924,13 @@
       "name": "Wood_Fir_Trunk_Full_Locked",
       "support": 15,
       "rotation": 5
+    },
+    {
+      "x": 21,
+      "y": 88,
+      "z": -1,
+      "name": "Furniture_Village_Counter",
+      "rotation": 3
     },
     {
       "x": 21,
@@ -752321,6 +752506,14 @@
     },
     {
       "x": 25,
+      "y": 88,
+      "z": -2,
+      "name": "Furniture_Village_Counter",
+      "filler": 992,
+      "rotation": 3
+    },
+    {
+      "x": 25,
       "y": 89,
       "z": -2,
       "name": "Metal_Iron_Pipe_Large",
@@ -752516,6 +752709,20 @@
       "name": "Wood_Fir_Trunk_Full_Locked",
       "support": 15,
       "rotation": 5
+    },
+    {
+      "x": 25,
+      "y": 88,
+      "z": -1,
+      "name": "Furniture_Village_Counter",
+      "rotation": 3
+    },
+    {
+      "x": 25,
+      "y": 89,
+      "z": -1,
+      "name": "Metal_Iron_Pipe_Large_Mouthpiece",
+      "rotation": 4
     },
     {
       "x": 25,
@@ -754607,6 +754814,13 @@
     },
     {
       "x": 25,
+      "y": 88,
+      "z": 11,
+      "name": "Furniture_Village_Counter",
+      "rotation": 1
+    },
+    {
+      "x": 25,
       "y": 89,
       "z": 11,
       "name": "Metal_Iron_Pipe_Large_Mouthpiece",
@@ -754758,6 +754972,14 @@
       "z": 12,
       "name": "Wood_Deadwood_Planks_Half",
       "rotation": 34
+    },
+    {
+      "x": 25,
+      "y": 88,
+      "z": 12,
+      "name": "Furniture_Village_Counter",
+      "filler": 32,
+      "rotation": 1
     },
     {
       "x": 25,
@@ -777241,6 +777463,14 @@
     },
     {
       "x": 29,
+      "y": 88,
+      "z": -2,
+      "name": "Furniture_Village_Counter",
+      "filler": 992,
+      "rotation": 3
+    },
+    {
+      "x": 29,
       "y": 89,
       "z": -2,
       "name": "Metal_Iron_Pipe_Large",
@@ -777413,6 +777643,13 @@
       "name": "Wood_Fir_Trunk_Full_Locked",
       "support": 15,
       "rotation": 5
+    },
+    {
+      "x": 29,
+      "y": 88,
+      "z": -1,
+      "name": "Furniture_Village_Counter",
+      "rotation": 3
     },
     {
       "x": 29,
@@ -779333,6 +779570,20 @@
     },
     {
       "x": 29,
+      "y": 88,
+      "z": 11,
+      "name": "Furniture_Village_Counter",
+      "rotation": 1
+    },
+    {
+      "x": 29,
+      "y": 89,
+      "z": 11,
+      "name": "Metal_Iron_Pipe_Large_Mouthpiece",
+      "rotation": 6
+    },
+    {
+      "x": 29,
       "y": 91,
       "z": 11,
       "name": "Wood_Fir_Trunk_Full_Locked",
@@ -779467,6 +779718,14 @@
       "z": 12,
       "name": "Wood_Deadwood_Planks_Half",
       "rotation": 34
+    },
+    {
+      "x": 29,
+      "y": 88,
+      "z": 12,
+      "name": "Furniture_Village_Counter",
+      "filler": 32,
+      "rotation": 1
     },
     {
       "x": 29,
@@ -801956,21 +802215,17 @@
       "x": 34,
       "y": 96,
       "z": -5,
-      "name": "Furniture_Human_Ruins_Chest_Large",
+      "name": "Block_Spawner_Block",
       "components": {
         "Components": {
-          "ItemContainerBlock": {
-            "ItemContainer": {
-              "Capacity": 36,
-              "Items": {}
-            },
-            "Capacity": 36
-          },
           "PlacedByInteraction": {
             "WhoPlacedUuid": {
               "$binary": "+u0Lek23TWiDpMOn5L2LqA==",
               "$type": "04"
             }
+          },
+          "BlockSpawner": {
+            "BlockSpawnerId": "Zone3_Encounters_Tier2"
           }
         }
       },
@@ -802137,8 +802392,20 @@
       "x": 34,
       "y": 96,
       "z": -4,
-      "name": "Furniture_Human_Ruins_Chest_Large",
-      "filler": 32,
+      "name": "Block_Spawner_Block",
+      "components": {
+        "Components": {
+          "PlacedByInteraction": {
+            "WhoPlacedUuid": {
+              "$binary": "+u0Lek23TWiDpMOn5L2LqA==",
+              "$type": "04"
+            }
+          },
+          "BlockSpawner": {
+            "BlockSpawnerId": "Zone3_Encounters_Tier2"
+          }
+        }
+      },
       "rotation": 1
     },
     {
