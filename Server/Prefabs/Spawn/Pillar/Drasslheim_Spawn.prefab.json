@@ -115192,9 +115192,9 @@
       "x": -1,
       "y": 135,
       "z": -1,
-      "name": "Forgotten_Temple_Portal_Exit",
+      "name": "Drasslheim_Portal_Enter",
       "filler": 1023,
-      "rotation": 1
+      "rotation": 3
     },
     {
       "x": -1,
@@ -116061,9 +116061,9 @@
       "x": -1,
       "y": 135,
       "z": 0,
-      "name": "Forgotten_Temple_Portal_Exit",
+      "name": "Drasslheim_Portal_Enter",
       "filler": 31,
-      "rotation": 1
+      "rotation": 3
     },
     {
       "x": -1,
@@ -116921,9 +116921,9 @@
       "x": -1,
       "y": 135,
       "z": 1,
-      "name": "Forgotten_Temple_Portal_Exit",
+      "name": "Drasslheim_Portal_Enter",
       "filler": 63,
-      "rotation": 1
+      "rotation": 3
     },
     {
       "x": -1,
@@ -132326,9 +132326,9 @@
       "x": 0,
       "y": 135,
       "z": -1,
-      "name": "Forgotten_Temple_Portal_Exit",
+      "name": "Drasslheim_Portal_Enter",
       "filler": 992,
-      "rotation": 1
+      "rotation": 3
     },
     {
       "x": 0,
@@ -133228,8 +133228,22 @@
       "x": 0,
       "y": 135,
       "z": 0,
-      "name": "Forgotten_Temple_Portal_Exit",
-      "rotation": 1
+      "name": "Drasslheim_Portal_Enter",
+      "components": {
+        "Components": {
+          "BlockMapMarker": {
+            "Name": "AzureV2_Portal",
+            "Icon": "Temple_Gateway.png"
+          },
+          "PlacedByInteraction": {
+            "WhoPlacedUuid": {
+              "$binary": "+u0Lek23TWiDpMOn5L2LqA==",
+              "$type": "04"
+            }
+          }
+        }
+      },
+      "rotation": 3
     },
     {
       "x": 0,
@@ -134117,9 +134131,9 @@
       "x": 0,
       "y": 135,
       "z": 1,
-      "name": "Forgotten_Temple_Portal_Exit",
+      "name": "Drasslheim_Portal_Enter",
       "filler": 32,
-      "rotation": 1
+      "rotation": 3
     },
     {
       "x": 0,
@@ -149683,9 +149697,9 @@
       "x": 1,
       "y": 135,
       "z": -1,
-      "name": "Forgotten_Temple_Portal_Exit",
+      "name": "Drasslheim_Portal_Enter",
       "filler": 993,
-      "rotation": 1
+      "rotation": 3
     },
     {
       "x": 1,
@@ -150597,9 +150611,9 @@
       "x": 1,
       "y": 135,
       "z": 0,
-      "name": "Forgotten_Temple_Portal_Exit",
+      "name": "Drasslheim_Portal_Enter",
       "filler": 1,
-      "rotation": 1
+      "rotation": 3
     },
     {
       "x": 1,
@@ -151505,9 +151519,9 @@
       "x": 1,
       "y": 135,
       "z": 1,
-      "name": "Forgotten_Temple_Portal_Exit",
+      "name": "Drasslheim_Portal_Enter",
       "filler": 33,
-      "rotation": 1
+      "rotation": 3
     },
     {
       "x": 1,
