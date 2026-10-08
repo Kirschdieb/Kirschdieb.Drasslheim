@@ -1,5 +1,5 @@
 {
-  "Parent": "Env_Numdrassl",
+  "Parent": "Env_Drasslheim",
   "Tags": {
     "Zone1": [
       "Plains"
@@ -88,12 +88,20 @@
       {
         "WeatherId": "Zone1_Cloudy_Medium",
         "Weight": 10
+      },
+      {
+        "WeatherId": "Zone1_Foggy_Light",
+        "Weight": 50
       }
     ],
     "6": [
       {
         "WeatherId": "Zone1_Cloudy_Medium",
         "Weight": 10
+      },
+      {
+        "WeatherId": "Zone1_Foggy_Light",
+        "Weight": 50
       }
     ],
     "7": [

@@ -131,7 +131,7 @@
 																													"$NodeId":	"Imported.Density-7a6aad90-9456-4f67-98ff-dab2d09c211e",
 																													"Type":	"Imported",
 																													"Skip":	false,
-																													"Name":	"Numdrassl_Cave_Ceiling"
+																													"Name":	"Drasslheim_Cave_Ceiling"
 																												}]
 																										}]
 																								}]
@@ -224,7 +224,7 @@
 																													"$NodeId":	"Imported.Density-81fb8a7d-453e-4c80-95d6-4145a769fc0a",
 																													"Type":	"Imported",
 																													"Skip":	false,
-																													"Name":	"Numdrassl_Cave_Ceiling"
+																													"Name":	"Drasslheim_Cave_Ceiling"
 																												}]
 																										}]
 																								}]
@@ -458,7 +458,7 @@
 																					"$NodeId":	"Imported.Density-74933c9c-46bb-4450-9f90-a22b7aba4460",
 																					"Type":	"Imported",
 																					"Skip":	false,
-																					"Name":	"Numdrassl_Cave_Ceiling"
+																					"Name":	"Drasslheim_Cave_Ceiling"
 																				}, {
 																					"$NodeId":	"CurveMapper.Density-b03d1947-ee66-4e89-94ab-0ec43b6e79a2",
 																					"Type":	"CurveMapper",
@@ -519,7 +519,7 @@
 																									"Inputs":	[{
 																											"$NodeId":	"Sum.Density-bb950789-3834-4951-a687-3a7de6227d02",
 																											"Type":	"Sum",
-																											"ExportAs":	"Numdrassl_Cave_Ceiling",
+																											"ExportAs":	"Drasslheim_Cave_Ceiling",
 																											"Skip":	false,
 																											"Inputs":	[{
 																													"$NodeId":	"Normalizer.Density-5204744b-673c-4797-a708-28451002bf3d",
@@ -638,7 +638,7 @@
 																						}, {
 																							"$NodeId":	"Sum.Density-48f534a1-218c-4e39-8a9d-4a72d70946f8",
 																							"Type":	"Sum",
-																							"ExportAs":	"Numdrassl_CavernCeiling",
+																							"ExportAs":	"Drasslheim_CavernCeiling",
 																							"Skip":	false,
 																							"Inputs":	[{
 																									"$NodeId":	"Normalizer.Density-0c692415-51b3-4ff9-ab9a-5441c1031d9b",
@@ -1101,7 +1101,7 @@
 																																				"Positions":	{
 																																					"$NodeId":	"Scaler.Positions-a15edd72-3584-4843-a478-8c632f14d66c",
 																																					"Type":	"Scaler",
-																																					"ExportAs":	"NumdrasslTilePos",
+																																					"ExportAs":	"DrasslheimTilePos",
 																																					"Skip":	false,
 																																					"Scale":	{
 																																						"$NodeId":	"Decimal.Vector3d-50a1827a-0c36-44f3-b5d2-b336e66e4466",
@@ -1314,7 +1314,7 @@
 																	"$NodeId":	"Imported.Density-445f1926-c169-4645-b039-44bff0b22739",
 																	"Type":	"Imported",
 																	"Skip":	false,
-																	"Name":	"World-Continent-Map_Numdrassl"
+																	"Name":	"World-Continent-Map_Drasslheim"
 																}, {
 																	"$NodeId":	"Constant.Density-8388ed79-9757-464b-a387-a0a8ca004d50",
 																	"Type":	"Constant",
@@ -2012,7 +2012,7 @@
 																	"$NodeId":	"Imported.Density-73a436e7-6aa0-48be-a9c9-2a61fa6d7580",
 																	"Type":	"Imported",
 																	"Skip":	false,
-																	"Name":	"World-Continent-Map_Numdrassl"
+																	"Name":	"World-Continent-Map_Drasslheim"
 																}]
 														}]
 												}]
@@ -2134,7 +2134,7 @@
 													"$NodeId":	"Imported.Density-3ebcc4d6-3150-43de-9629-47c7354097a0",
 													"Type":	"Imported",
 													"Skip":	false,
-													"Name":	"World-Continent-Map_Numdrassl"
+													"Name":	"World-Continent-Map_Drasslheim"
 												}]
 										}]
 								}]
@@ -2600,7 +2600,7 @@
 							"$NodeId":	"Imported.Density-a1936d50-90bb-4dc3-9d81-c884bbfa2f9c",
 							"Type":	"Imported",
 							"Skip":	false,
-							"Name":	"Ore_Density_Numdrassl"
+							"Name":	"Ore_Density_Drasslheim"
 						},
 						"Delimiters":	[{
 								"$NodeId":	"Delimiter.FieldFunction.MaterialProvider-7066fc01-093f-4163-af08-9cc58c95a09a",
@@ -2614,7 +2614,7 @@
 										"$NodeId":	"Imported.Density-e9c0cd9c-cf9f-4bf3-94ec-717644ffe520",
 										"Type":	"Imported",
 										"Skip":	false,
-										"Name":	"Ore_Split_Numdrassl"
+										"Name":	"Ore_Split_Drasslheim"
 									},
 									"Delimiters":	[{
 											"$NodeId":	"Delimiter.FieldFunction.MaterialProvider-4c3ae671-a64c-413c-b8df-c4378a1003a9",
@@ -2801,7 +2801,7 @@
 						"$NodeId":	"Imported.Density-cb46f8bf-02a4-450d-8ce0-53c88c469eaf",
 						"Type":	"Imported",
 						"Skip":	false,
-						"Name":	"World-Continent-Map_Numdrassl"
+						"Name":	"World-Continent-Map_Drasslheim"
 					},
 					"Delimiters":	[{
 							"$NodeId":	"Delimiter.FieldFunction.MaterialProvider-5883e18d-7e98-4c30-a01f-c59ff32e58c9",
@@ -4648,7 +4648,7 @@
 												"$NodeId":	"Imported.Density-23a79867-6e2d-493e-8d6b-778482ae5b2e",
 												"Type":	"Imported",
 												"Skip":	false,
-												"Name":	"World-Continent-Map_Numdrassl"
+												"Name":	"World-Continent-Map_Drasslheim"
 											}]
 									}]
 							}, {
@@ -5332,7 +5332,7 @@
 							"$NodeId":	"Imported.Density-17763a8f-89f0-43b9-879b-b94fb3f4e825",
 							"Type":	"Imported",
 							"Skip":	false,
-							"Name":	"World-Continent-Map_Numdrassl"
+							"Name":	"World-Continent-Map_Drasslheim"
 						},
 						"Delimiters":	[{
 								"$NodeId":	"Delimiter.Positions-255498c4-00d7-46f6-a3b0-5008599cf677",
@@ -5705,7 +5705,7 @@
 					"$NodeId":	"Constant.EnvironmentProvider-c4606693-1661-4691-9b17-ebce2f19b04b",
 					"Type":	"Constant",
 					"Skip":	false,
-					"Environment":	"Env_Numdrassl_Pillars"
+					"Environment":	"Env_Drasslheim_Pillars"
 				},
 				"Range":	{
 					"$NodeId":	"Decimal.Range-7c7bd14f-3812-49c4-8e65-751d5cd05822",
@@ -5718,7 +5718,7 @@
 					"$NodeId":	"Constant.EnvironmentProvider-efbb6613-7c67-467d-9c23-5c25fbffb89d",
 					"Type":	"Constant",
 					"Skip":	false,
-					"Environment":	"Env_Numdrassl_Default_Caves"
+					"Environment":	"Env_Drasslheim_Default_Caves"
 				},
 				"Range":	{
 					"$NodeId":	"Decimal.Range-f0202caf-e809-4d8a-a23b-bf4baab20c26",

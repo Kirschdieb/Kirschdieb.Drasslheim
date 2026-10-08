@@ -2344,7 +2344,7 @@
 																			"Positions":	{
 																				"$NodeId":	"Scaler.Positions-8c4af8ae-f309-47ce-a258-9a75bc0565e2",
 																				"Type":	"Scaler",
-																				"ExportAs":	"NumdrasslTilePos",
+																				"ExportAs":	"DrasslheimTilePos",
 																				"Skip":	false,
 																				"Scale":	{
 																					"$NodeId":	"Decimal.Vector3d-2768037a-6c1b-4957-96e0-c795b41fb834",

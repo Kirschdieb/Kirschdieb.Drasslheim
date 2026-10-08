@@ -20,7 +20,7 @@
   "IsSavingPlayers": true,
   "WorldGen": {
     "Type": "HytaleGenerator",
-    "WorldStructure": "Numdrassl"
+    "WorldStructure": "Drasslheim"
   },
   "IsSpawnMarkersEnabled": true,
   "DeleteOnRemove": false

@@ -1,7 +1,7 @@
 {
 	"$NodeId":	"Exported.Density-ed27c3c9-2416-4644-ac84-4e381c084b99",
 	"Type":	"Exported",
-	"ExportAs":	"Biome-Map_Numdrassl",
+	"ExportAs":	"Biome-Map_Drasslheim",
 	"SingleInstance":	true,
 	"Skip":	false,
 	"Inputs":	[{
@@ -36,7 +36,7 @@
 													"Inputs":	[{
 															"$NodeId":	"Exported.Density-3101cd94-dcad-4e85-8b45-aa8cce164c68",
 															"Type":	"Exported",
-															"ExportAs":	"World-Continent-Map_Numdrassl",
+															"ExportAs":	"World-Continent-Map_Drasslheim",
 															"SingleInstance":	true,
 															"Skip":	false,
 															"Inputs":	[{
@@ -157,7 +157,7 @@
 														}, {
 															"$NodeId":	"Normalizer.Density-841d33f5-d95e-4d24-8838-4c3573a4b4b5",
 															"Type":	"Normalizer",
-															"ExportAs":	"Tiles_Numdrassl",
+															"ExportAs":	"Tiles_Drasslheim",
 															"Skip":	false,
 															"FromMin":	-1,
 															"FromMax":	1,
@@ -203,7 +203,7 @@
 																											"Positions":	{
 																												"$NodeId":	"Imported.Positions-18e3160f-3c38-4861-b0a6-526bb85ab231",
 																												"Type":	"Imported",
-																												"Name":	"NumdrasslTilePos",
+																												"Name":	"DrasslheimTilePos",
 																												"Skip":	false
 																											},
 																											"ReturnType":	{
@@ -329,7 +329,7 @@
 																																					"Positions":	{
 																																						"$NodeId":	"Scaler.Positions-2eb02c45-709f-4f3b-b84d-3c8271040db9",
 																																						"Type":	"Scaler",
-																																						"ExportAs":	"NumdrasslTilePos",
+																																						"ExportAs":	"DrasslheimTilePos",
 																																						"Skip":	false,
 																																						"Scale":	{
 																																							"$NodeId":	"Decimal.Vector3d-2f4d23ad-1688-4d64-95c2-5f4f0d0584e5",
@@ -390,7 +390,7 @@
 																					"$NodeId":	"Imported.Density-bd284606-8b51-4111-af8f-8be31b54dc55",
 																					"Type":	"Imported",
 																					"Skip":	false,
-																					"Name":	"World-Continent-Map_Numdrassl"
+																					"Name":	"World-Continent-Map_Drasslheim"
 																				}, {
 																					"$NodeId":	"Constant.Density-09626c5f-a7fd-4ef4-bd67-5f5903ad378a",
 																					"Type":	"Constant",

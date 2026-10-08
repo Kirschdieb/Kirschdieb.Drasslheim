@@ -1200,7 +1200,7 @@
 											"$NodeId":	"Imported.Density-71c93d79-375b-4abf-8315-59aa8c83606e",
 											"Type":	"Imported",
 											"Skip":	false,
-											"Name":	"World-Continent-Map_Numdrassl"
+											"Name":	"World-Continent-Map_Drasslheim"
 										}]
 								}]
 						}, {
@@ -3449,7 +3449,7 @@
 		"$NodeId":	"Constant.EnvironmentProvider-32281c0b-6eb8-4d88-a984-90bebe83f26f",
 		"Type":	"Constant",
 		"Skip":	false,
-		"Environment":	"Env_Numdrassl_Ocean"
+		"Environment":	"Env_Drasslheim_Ocean"
 	},
 	"TintProvider":	{
 		"$NodeId":	"DensityDelimited.TintProvider-660a7048-b6a7-48d8-a538-ab833ebf9d16",

@@ -302,7 +302,7 @@
 																			"$NodeId":	"Imported.Density-d40727d0-a91d-44ef-8600-6ccc0e32e8cd",
 																			"Type":	"Imported",
 																			"Skip":	false,
-																			"Name":	"World-Continent-Map_Numdrassl"
+																			"Name":	"World-Continent-Map_Drasslheim"
 																		}, {
 																			"$NodeId":	"Constant.Density-7b124288-2559-4e44-85b1-b07b82db0a9b",
 																			"Type":	"Constant",
@@ -1028,7 +1028,7 @@
 									"$NodeId":	"Imported.Density-6fdec7c3-a52f-4db9-9295-d098e22053f4",
 									"Type":	"Imported",
 									"Skip":	false,
-									"Name":	"World-Continent-Map_Numdrassl"
+									"Name":	"World-Continent-Map_Drasslheim"
 								}, {
 									"$NodeId":	"Normalizer.Density-b62b806d-6c61-41b7-9dae-bbc89e0a7c85",
 									"Type":	"Normalizer",
@@ -2084,7 +2084,7 @@
 		"$NodeId":	"Constant.EnvironmentProvider-fa6190bb-78f9-4932-b16d-2491866485dc",
 		"Type":	"Constant",
 		"Skip":	false,
-		"Environment":	"Env_Numdrassl_Continental"
+		"Environment":	"Env_Drasslheim_Continental"
 	},
 	"TintProvider":	{
 		"$NodeId":	"Constant.TintProvider-20fa68de-61e3-4ecc-aac3-9af55bc33e29",

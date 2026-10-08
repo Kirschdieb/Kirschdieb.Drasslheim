@@ -3,7 +3,7 @@
 This Project is unfinished. But it is already my most technically interesting project yet. 
 Its the first time I am working with a more sophisticated biome map and build everything from the ground up with performance in mind.
 
-**To get started** with exploring, currently the only way is to create a **new "Numdrassl" Instance** using commands or the Instance UI.
+**To get started** with exploring, currently the only way is to create a **new "Drasslheim" Instance** using commands or the Instance UI.
 
 The world currently consists of 3 main-biomes forming the main land in the middle of the ocean. 
 

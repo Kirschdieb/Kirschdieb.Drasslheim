@@ -1,7 +1,7 @@
 {
   "TranslationProperties": {
-    "Name": "Numdrassl Portal",
-    "Description": "Portal to the Numdrassl Alterverse"
+    "Name": "Drasslheim Portal",
+    "Description": "Portal to the Drasslheim Alterverse"
   },
   "Icon": "Icons/ItemsGenerated/Portal_Return.png",
   "Categories": [
@@ -49,7 +49,7 @@
         "Interactions": [
           {
             "Type": "TeleportInstance",
-            "InstanceName": "Numdrassl",
+            "InstanceName": "Drasslheim",
             "PositionOffset": {
               "X": 0,
               "Y": 0,

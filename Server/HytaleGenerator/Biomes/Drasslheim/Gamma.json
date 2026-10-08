@@ -315,7 +315,7 @@
 														}, {
 															"$NodeId":	"Sum.Density-25429001-49ed-41fc-aa8a-a8e938f3773e",
 															"Type":	"Sum",
-															"ExportAs":	"Numdrassl_Gamma_CavernCeiling",
+															"ExportAs":	"Drasslheim_Gamma_CavernCeiling",
 															"Skip":	false,
 															"Inputs":	[{
 																	"$NodeId":	"Normalizer.Density-33fed18a-4ebb-4dab-81fe-e1ace7011dd9",
@@ -403,7 +403,7 @@
 																					"$NodeId":	"Imported.Density-b29ab742-d31e-45b4-abde-ed97e4aa2072",
 																					"Type":	"Imported",
 																					"Skip":	false,
-																					"Name":	"World-Continent-Map_Numdrassl"
+																					"Name":	"World-Continent-Map_Drasslheim"
 																				}]
 																		}]
 																}]
@@ -678,7 +678,7 @@
 																							"$NodeId":	"Imported.Density-445f1926-c169-4645-b039-44bff0b22739",
 																							"Type":	"Imported",
 																							"Skip":	false,
-																							"Name":	"World-Continent-Map_Numdrassl"
+																							"Name":	"World-Continent-Map_Drasslheim"
 																						}]
 																				}]
 																		}, {
@@ -772,7 +772,7 @@
 																							"$NodeId":	"Imported.Density-73a436e7-6aa0-48be-a9c9-2a61fa6d7580",
 																							"Type":	"Imported",
 																							"Skip":	false,
-																							"Name":	"World-Continent-Map_Numdrassl"
+																							"Name":	"World-Continent-Map_Drasslheim"
 																						}]
 																				}]
 																		}]
@@ -837,7 +837,7 @@
 																					"$NodeId":	"Imported.Density-b0424eef-a1f9-4eff-8f7a-8a01e6c9497a",
 																					"Type":	"Imported",
 																					"Skip":	false,
-																					"Name":	"World-Continent-Map_Numdrassl"
+																					"Name":	"World-Continent-Map_Drasslheim"
 																				}]
 																		}]
 																}],
@@ -999,7 +999,7 @@
 																															"Positions":	{
 																																"$NodeId":	"Scaler.Positions-f27dbe79-e932-4a7f-8b65-433c52c4310e",
 																																"Type":	"Scaler",
-																																"ExportAs":	"NumdrasslTilePos",
+																																"ExportAs":	"DrasslheimTilePos",
 																																"Skip":	false,
 																																"Scale":	{
 																																	"$NodeId":	"Decimal.Vector3d-ba31e947-aed3-4761-8b8e-378e5af90fa1",
@@ -1120,7 +1120,7 @@
 																													"Positions":	{
 																														"$NodeId":	"Scaler.Positions-5f980def-55f1-410a-b235-0d4cb404fbfa",
 																														"Type":	"Scaler",
-																														"ExportAs":	"NumdrasslTilePos",
+																														"ExportAs":	"DrasslheimTilePos",
 																														"Skip":	false,
 																														"Scale":	{
 																															"$NodeId":	"Decimal.Vector3d-4d02235a-b009-4618-9294-95c92f6424a1",
@@ -1679,7 +1679,7 @@
 							"$NodeId":	"Imported.Density-47bee30e-9a26-4ca7-8474-69dfa3a0d9b9",
 							"Type":	"Imported",
 							"Skip":	false,
-							"Name":	"Ore_Density_Numdrassl"
+							"Name":	"Ore_Density_Drasslheim"
 						},
 						"Delimiters":	[{
 								"$NodeId":	"Delimiter.FieldFunction.MaterialProvider-85598c31-f2e1-410c-b029-b485f8379736",
@@ -1693,7 +1693,7 @@
 										"$NodeId":	"Imported.Density-49740bc8-1271-4c30-bf18-5a9caf2fb9a7",
 										"Type":	"Imported",
 										"Skip":	false,
-										"Name":	"Ore_Split_Numdrassl"
+										"Name":	"Ore_Split_Drasslheim"
 									},
 									"Delimiters":	[{
 											"$NodeId":	"Delimiter.FieldFunction.MaterialProvider-bca1449c-62b2-47f3-85ef-0f915394f83e",
@@ -1907,7 +1907,7 @@
 						"$NodeId":	"Imported.Density-1d569f70-1668-4760-bd3c-a42fa2c5a340",
 						"Type":	"Imported",
 						"Skip":	false,
-						"Name":	"World-Continent-Map_Numdrassl"
+						"Name":	"World-Continent-Map_Drasslheim"
 					},
 					"Delimiters":	[{
 							"$NodeId":	"Delimiter.FieldFunction.MaterialProvider-7b69ef20-1fb8-461d-a485-f8e64cc85d2d",
@@ -2293,7 +2293,7 @@
 																	"$NodeId":	"Imported.Density-b1ff283c-650b-4e52-8510-4768b6bf8f77",
 																	"Type":	"Imported",
 																	"Skip":	false,
-																	"Name":	"World-Continent-Map_Numdrassl"
+																	"Name":	"World-Continent-Map_Drasslheim"
 																}]
 														}]
 												}, {
@@ -4256,7 +4256,7 @@
 					"$NodeId":	"Constant.EnvironmentProvider-c4606693-1661-4691-9b17-ebce2f19b04b",
 					"Type":	"Constant",
 					"Skip":	false,
-					"Environment":	"Env_Numdrassl_Mountains"
+					"Environment":	"Env_Drasslheim_Mountains"
 				},
 				"Range":	{
 					"$NodeId":	"Decimal.Range-7c7bd14f-3812-49c4-8e65-751d5cd05822",
@@ -4269,7 +4269,7 @@
 					"$NodeId":	"Constant.EnvironmentProvider-efbb6613-7c67-467d-9c23-5c25fbffb89d",
 					"Type":	"Constant",
 					"Skip":	false,
-					"Environment":	"Env_Numdrassl_Default_Caves"
+					"Environment":	"Env_Drasslheim_Default_Caves"
 				},
 				"Range":	{
 					"$NodeId":	"Decimal.Range-f0202caf-e809-4d8a-a23b-bf4baab20c26",
@@ -9839,7 +9839,7 @@
 				"$NodeId":	"Imported.Density-136efcb5-9fbd-451f-9ae4-e5167d533c57",
 				"Type":	"Imported",
 				"Skip":	false,
-				"Name":	"Numdrassl_Cave_Ceiling"
+				"Name":	"Drasslheim_Cave_Ceiling"
 			}],
 		"$Links":	{
 			"c8bbd5b1-4262-4cab-8237-8b8aa2198837":	{

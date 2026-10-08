@@ -7,7 +7,7 @@
       "Max" : 0
     },
     {
-      "Biome" : "Oceans_Numdrassl",
+      "Biome" : "Oceans_Drasslheim",
       "Min" : 0,
       "Max" : 0.5
     },
@@ -47,11 +47,11 @@
   "MaxBiomeEdgeDistance" : 32,
   "Density": {
     "Type" : "Imported",
-    "Name" : "Biome-Map_Numdrassl"
+    "Name" : "Biome-Map_Drasslheim"
 	},
   "SpawnPositions" : {
     "Type" : "Imported",
-    "Name" : "Portals-Numdrassl-Spawn"
+    "Name" : "Portals-Drasslheim-Spawn"
   },
   "Framework" : [
     {
@@ -61,7 +61,7 @@
           "Name" : "Spawns",
           "Positions" : {
             "Type" : "List",
-            "ExportAs" : "Portals-Numdrassl-Spawn",
+            "ExportAs" : "Portals-Drasslheim-Spawn",
             "Positions": [
               {
                 "X": 0,
