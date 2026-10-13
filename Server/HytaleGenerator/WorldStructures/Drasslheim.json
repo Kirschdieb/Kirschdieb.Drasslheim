@@ -12,17 +12,17 @@
       "Max" : 0.5
     },
     {
-      "Biome" : "Alpha",
+      "Biome" : "MarbleGroves",
       "Min" : 0.5,
       "Max" : 0.55
     },
     {
-      "Biome" : "Beta",
+      "Biome" : "Pillarfjell",
       "Min" : 0.725,
       "Max" : 0.775
     },
     {
-      "Biome" : "Gamma",
+      "Biome" : "Highpines",
       "Min" : 0.95,
       "Max" : 1
     },

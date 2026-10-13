@@ -11,7 +11,7 @@
 			"Inputs":	[{
 					"$NodeId":	"MultiMix.Density-79105c56-d3ba-4c9b-8456-c918fc96d487",
 					"Type":	"MultiMix",
-					"ExportAs":	"GammaMainTerrain",
+					"ExportAs":	"HighpinesMainTerrain",
 					"Skip":	false,
 					"Inputs":	[{
 							"$NodeId":	"Constant.Density-4f845340-5de4-4300-83ba-5beb63ad8456",
@@ -32,7 +32,7 @@
 									"Inputs":	[{
 											"$NodeId":	"Max.Density-553e6616-2f35-4b46-8340-a16c96f4f7b3",
 											"Type":	"Max",
-											"ExportAs":	"Stalaktites_nites_Gamma",
+											"ExportAs":	"Stalaktites_nites_Highpines",
 											"Skip":	false,
 											"Inputs":	[{
 													"$NodeId":	"Sum.Density-b3bfa385-f181-47f2-ab35-5e47ac11a7a8",
@@ -117,7 +117,7 @@
 																					"$NodeId":	"Imported.Density-a0da08f0-393c-4104-aa55-4770eb1f44ce",
 																					"Type":	"Imported",
 																					"Skip":	false,
-																					"Name":	"Base_Noise_Gamma"
+																					"Name":	"Base_Noise_Highpines"
 																				}]
 																		}]
 																}]
@@ -205,7 +205,7 @@
 																					"$NodeId":	"Imported.Density-6a57ba54-8d81-4b44-9f94-8da831a4c5a5",
 																					"Type":	"Imported",
 																					"Skip":	false,
-																					"Name":	"Base_Noise_Gamma"
+																					"Name":	"Base_Noise_Highpines"
 																				}]
 																		}]
 																}]
@@ -227,7 +227,7 @@
 																	"$NodeId":	"Imported.Density-0e7b20d4-830d-471c-9a54-024bb2f21678",
 																	"Type":	"Imported",
 																	"Skip":	false,
-																	"Name":	"Base_Noise_Gamma"
+																	"Name":	"Base_Noise_Highpines"
 																}]
 														}, {
 															"$NodeId":	"CurveMapper.Density-64eda01b-fd17-4f63-b622-5a0afb202e58",
@@ -315,7 +315,7 @@
 														}, {
 															"$NodeId":	"Sum.Density-25429001-49ed-41fc-aa8a-a8e938f3773e",
 															"Type":	"Sum",
-															"ExportAs":	"Drasslheim_Gamma_CavernCeiling",
+															"ExportAs":	"Drasslheim_Highpines_CavernCeiling",
 															"Skip":	false,
 															"Inputs":	[{
 																	"$NodeId":	"Normalizer.Density-33fed18a-4ebb-4dab-81fe-e1ace7011dd9",
@@ -347,7 +347,7 @@
 																					"$NodeId":	"Imported.Density-dff7e0aa-1133-4b0f-89c5-4cdcb2073e8f",
 																					"Type":	"Imported",
 																					"Skip":	false,
-																					"Name":	"Base_Noise_Gamma"
+																					"Name":	"Base_Noise_Highpines"
 																				}]
 																		}]
 																}]
@@ -466,11 +466,11 @@
 					"$NodeId":	"Imported.Density-69fa2fe6-74c9-46f3-a62b-cfdbe23f9b6b",
 					"Type":	"Imported",
 					"Skip":	false,
-					"Name":	"BetaCavesMain"
+					"Name":	"PillarfjellCavesMain"
 				}, {
 					"$NodeId":	"MultiMix.Density-b2c68d8a-2bf9-4b9c-94fd-f1c8877e1d0b",
 					"Type":	"MultiMix",
-					"ExportAs":	"GammaMainTerrain",
+					"ExportAs":	"HighpinesMainTerrain",
 					"Skip":	false,
 					"Inputs":	[{
 							"$NodeId":	"Constant.Density-8459df3f-daf7-4629-a24a-60cde2cf97ca",
@@ -504,7 +504,7 @@
 													"Inputs":	[{
 															"$NodeId":	"Max.Density-ec0b0904-625d-45ca-947c-d04c7d901aa2",
 															"Type":	"Max",
-															"ExportAs":	"ContinentMap_Gamma",
+															"ExportAs":	"ContinentMap_Highpines",
 															"Skip":	false,
 															"Inputs":	[{
 																	"$NodeId":	"Sum.Density-e49b11a0-4adb-4465-9bbd-9bff24ad42f4",
@@ -736,7 +736,7 @@
 																									"$NodeId":	"Imported.Density-ccd85f3f-99c6-4490-ada0-c7d90790321d",
 																									"Type":	"Imported",
 																									"Skip":	false,
-																									"Name":	"Base_Noise_Gamma"
+																									"Name":	"Base_Noise_Highpines"
 																								}, {
 																									"$NodeId":	"Constant.Density-f631ca65-fbea-4512-afd1-3c5f63d45af4",
 																									"Type":	"Constant",
@@ -747,7 +747,7 @@
 																				}, {
 																					"$NodeId":	"SimplexNoise2D.Density-986bc27a-e79e-47b4-a5ef-3e41efe9fbac",
 																					"Type":	"SimplexNoise2D",
-																					"ExportAs":	"Base_Noise_Gamma",
+																					"ExportAs":	"Base_Noise_Highpines",
 																					"Skip":	false,
 																					"Lacunarity":	3,
 																					"Persistence":	0.3,
@@ -1288,7 +1288,7 @@
 													"$NodeId":	"Imported.Density-d8f245f3-ae5d-4412-8480-6c2950cc648e",
 													"Type":	"Imported",
 													"Skip":	false,
-													"Name":	"ContinentMap_Gamma"
+													"Name":	"ContinentMap_Highpines"
 												}]
 										}]
 								}]
@@ -2163,7 +2163,7 @@
 						"Floor":	{
 							"$NodeId":	"BlockSet.Pattern-cf09f44d-7b0e-4adb-bfbc-021565b05509",
 							"Type":	"BlockSet",
-							"ExportAs":	"Grass_Blockset_Gamma",
+							"ExportAs":	"Grass_Blockset_Highpines",
 							"Skip":	false,
 							"BlockSet":	{
 								"$NodeId":	"BlockSet.BlockMask-5518d3e5-912a-4de4-8fe9-5992f0d69ecf",
@@ -2214,7 +2214,7 @@
 				"Positions":	{
 					"$NodeId":	"Occurrence.Positions-6eae8275-6607-44c4-8166-8cd00aab8bbc",
 					"Type":	"Occurrence",
-					"ExportAs":	"Small_Tree_Pos_Gamma",
+					"ExportAs":	"Small_Tree_Pos_Highpines",
 					"Skip":	false,
 					"FieldFunction":	{
 						"$NodeId":	"Sum.Density-db7b7aa8-3db1-46af-8fbf-1de4f07c8374",
@@ -2228,7 +2228,7 @@
 										"$NodeId":	"Imported.Density-40ac3cb5-9f79-49c4-a268-7ab945e64ef1",
 										"Type":	"Imported",
 										"Skip":	false,
-										"Name":	"Base_Noise_Gamma"
+										"Name":	"Base_Noise_Highpines"
 									}]
 							}, {
 								"$NodeId":	"Normalizer.Density-cdcc9f9b-c06f-4853-81d8-3adc1635a15d",
@@ -2525,7 +2525,7 @@
 								"$NodeId":	"Imported.Pattern-1336d4f8-af24-4034-ab8a-13433346e44b",
 								"Type":	"Imported",
 								"Skip":	false,
-								"Name":	"Grass_Blockset_Gamma"
+								"Name":	"Grass_Blockset_Highpines"
 							}
 						}
 					},
@@ -2575,7 +2575,7 @@
 					"Positions":	{
 						"$NodeId":	"Occurrence.Positions-89a6e0c5-2af7-4063-b9d2-1f336224b982",
 						"Type":	"Occurrence",
-						"ExportAs":	"Gamma_CaveFolliage_1",
+						"ExportAs":	"Highpines_CaveFolliage_1",
 						"Skip":	false,
 						"Seed":	"A",
 						"FieldFunction":	{
@@ -2802,7 +2802,7 @@
 				"Positions":	{
 					"$NodeId":	"Imported.Positions-0be8ad72-f72e-4c1c-b286-314ebe3891e3",
 					"Type":	"Imported",
-					"Name":	"Gamma_CaveFolliage_1",
+					"Name":	"Highpines_CaveFolliage_1",
 					"Skip":	false
 				},
 				"Prop":	{
@@ -3079,7 +3079,7 @@
 								"$NodeId":	"Imported.Pattern-229cf3d1-89bf-41ad-a1b3-03ef26f0bf53",
 								"Type":	"Imported",
 								"Skip":	false,
-								"Name":	"Grass_Blockset_Gamma"
+								"Name":	"Grass_Blockset_Highpines"
 							}
 						}
 					},
@@ -3174,7 +3174,7 @@
 														"Positions":	{
 															"$NodeId":	"Imported.Positions-5584ca31-5405-4f89-9fab-6cf3a59ad98d",
 															"Type":	"Imported",
-															"Name":	"Small_Tree_Pos_Gamma",
+															"Name":	"Small_Tree_Pos_Highpines",
 															"Skip":	false
 														},
 														"ReturnType":	{
@@ -3260,7 +3260,7 @@
 							"$NodeId":	"Imported.Pattern-5dc1c9f3-a120-4cfe-873d-c08e4c9ea9ac",
 							"Type":	"Imported",
 							"Skip":	false,
-							"Name":	"Grass_Blockset_Alpha"
+							"Name":	"Grass_Blockset_MarbleGroves"
 						}
 					},
 					"Scanner":	{
@@ -3362,7 +3362,7 @@
 														"Positions":	{
 															"$NodeId":	"Imported.Positions-b89cc68d-dca9-4d90-99d7-13ec8144b897",
 															"Type":	"Imported",
-															"Name":	"Small_Tree_Pos_Gamma",
+															"Name":	"Small_Tree_Pos_Highpines",
 															"Skip":	false
 														},
 														"ReturnType":	{
@@ -3443,7 +3443,7 @@
 							"$NodeId":	"Imported.Pattern-2ed012b6-cd25-4ab9-9b36-4d6c533bf079",
 							"Type":	"Imported",
 							"Skip":	false,
-							"Name":	"Grass_Blockset_Gamma"
+							"Name":	"Grass_Blockset_Highpines"
 						}
 					},
 					"Scanner":	{
@@ -9533,7 +9533,7 @@
 				"$NodeId":	"Imported.Density-fa7b2c10-aa47-4100-8e7c-9b856b37a4db",
 				"Type":	"Imported",
 				"Skip":	false,
-				"Name":	"GammaMainTerrain"
+				"Name":	"HighpinesMainTerrain"
 			}, {
 				"$NodeId":	"ConstantThickness.Layer.SpaceAndDepth.MaterialProvider-a5df2fc1-2b6b-4ae2-aea8-5070e9f38a81",
 				"Type":	"ConstantThickness",
@@ -9738,7 +9738,7 @@
 															"$NodeId":	"Imported.Density-c8d46cf9-6ae3-4af3-8ac7-8566a8eb5020",
 															"Type":	"Imported",
 															"Skip":	false,
-															"Name":	"GammaMainTerrain"
+															"Name":	"HighpinesMainTerrain"
 														}
 													}
 												}

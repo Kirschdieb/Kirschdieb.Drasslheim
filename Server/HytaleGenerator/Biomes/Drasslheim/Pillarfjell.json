@@ -11,7 +11,7 @@
 			"Inputs":	[{
 					"$NodeId":	"Exported.Density-138f99ff-3e46-4b55-8dc9-070f87df1135",
 					"Type":	"Exported",
-					"ExportAs":	"BetaCavesMain",
+					"ExportAs":	"PillarfjellCavesMain",
 					"SingleInstance":	true,
 					"Skip":	false,
 					"Inputs":	[{
@@ -265,7 +265,7 @@
 															"Inputs":	[{
 																	"$NodeId":	"Slider.Density-a8ab7656-be03-4094-91a9-1f1730604942",
 																	"Type":	"Slider",
-																	"ExportAs":	"Beta_Caves_Snakes_Deep",
+																	"ExportAs":	"Pillarfjell_Caves_Snakes_Deep",
 																	"Skip":	false,
 																	"SlideX":	4000,
 																	"SlideY":	-70,
@@ -274,12 +274,12 @@
 																			"$NodeId":	"Imported.Density-25fa28ce-bdff-442d-94fb-17e05984bbcd",
 																			"Type":	"Imported",
 																			"Skip":	false,
-																			"Name":	"BetaSmallCaves"
+																			"Name":	"PillarfjellSmallCaves"
 																		}]
 																}, {
 																	"$NodeId":	"YSampled.Density-ba1f57d1-9df0-4e73-92ad-c93c1197cecf",
 																	"Type":	"YSampled",
-																	"ExportAs":	"BetaSmallCaves",
+																	"ExportAs":	"PillarfjellSmallCaves",
 																	"Skip":	false,
 																	"SampleDistance":	6,
 																	"SampleOffset":	0,
@@ -301,7 +301,7 @@
 																									"$NodeId":	"Imported.Density-ddc6ce0e-7cf3-428e-95f9-6e6d16e3947a",
 																									"Type":	"Imported",
 																									"Skip":	false,
-																									"Name":	"BetaCaves2"
+																									"Name":	"PillarfjellCaves2"
 																								}]
 																						}, {
 																							"$NodeId":	"CurveMapper.Density-754d9e96-c971-4bf8-87ba-d7b46ace0770",
@@ -339,7 +339,7 @@
 																							"Inputs":	[{
 																									"$NodeId":	"SimplexNoise2D.Density-0cc78048-afde-46a3-a4d4-0326fabaf349",
 																									"Type":	"SimplexNoise2D",
-																									"ExportAs":	"BetaCaves2",
+																									"ExportAs":	"PillarfjellCaves2",
 																									"Skip":	false,
 																									"Lacunarity":	4,
 																									"Persistence":	0.25,
@@ -1284,7 +1284,7 @@
 						}, {
 							"$NodeId":	"MultiMix.Density-06ee1ec3-8aba-473b-ad03-f650669a3dce",
 							"Type":	"MultiMix",
-							"ExportAs":	"MainTerrainBeta",
+							"ExportAs":	"MainTerrainPillarfjell",
 							"Skip":	false,
 							"Inputs":	[{
 									"$NodeId":	"Constant.Density-e820ffc9-9133-473d-b56f-fef9898b5334",
@@ -1769,7 +1769,7 @@
 																											"$NodeId":	"Imported.Density-8211a69f-64ab-4af7-9b0b-549ce65bfc4d",
 																											"Type":	"Imported",
 																											"Skip":	false,
-																											"Name":	"BetaBaseBase"
+																											"Name":	"PillarfjellBaseBase"
 																										}]
 																								}]
 																						}]
@@ -1879,7 +1879,7 @@
 																													"$NodeId":	"Imported.Density-7e70f7d2-ae94-4413-a331-c376357db557",
 																													"Type":	"Imported",
 																													"Skip":	false,
-																													"Name":	"BetaBaseBase"
+																													"Name":	"PillarfjellBaseBase"
 																												}]
 																										}]
 																								}]
@@ -1956,7 +1956,7 @@
 																	"Inputs":	[{
 																			"$NodeId":	"SimplexNoise2D.Density-03e6845e-00be-48c8-b2d3-5c85b15df8db",
 																			"Type":	"SimplexNoise2D",
-																			"ExportAs":	"BetaBaseBase",
+																			"ExportAs":	"PillarfjellBaseBase",
 																			"Skip":	false,
 																			"Lacunarity":	3,
 																			"Persistence":	0.5,
@@ -2203,7 +2203,7 @@
 								"$NodeId":	"Imported.MaterialProvider-0078791e-861f-4090-aacf-df8f46e265a5",
 								"Type":	"Imported",
 								"Skip":	false,
-								"Name":	"Rock_Beta"
+								"Name":	"Rock_Pillarfjell"
 							}
 						}]
 				}, {
@@ -2651,7 +2651,7 @@
 				}, {
 					"$NodeId":	"FieldFunction.MaterialProvider-3207e7e5-2037-44dc-b814-8bf2a9fda692",
 					"Type":	"FieldFunction",
-					"ExportAs":	"Rock_Beta",
+					"ExportAs":	"Rock_Pillarfjell",
 					"Skip":	false,
 					"FieldFunction":	{
 						"$NodeId":	"Mix.Density-8841a36b-9e0e-424e-a053-6b7e047a7ab3",
@@ -3057,7 +3057,7 @@
 						"Floor":	{
 							"$NodeId":	"BlockSet.Pattern-c08d3764-e107-4f19-b5d5-18be55ebb776",
 							"Type":	"BlockSet",
-							"ExportAs":	"Grass_Blockset_Beta",
+							"ExportAs":	"Grass_Blockset_Pillarfjell",
 							"Skip":	false,
 							"BlockSet":	{
 								"$NodeId":	"BlockSet.BlockMask-c4f0917f-6ce4-486a-95e2-adab13117dd1",
@@ -3236,7 +3236,7 @@
 					"Positions":	{
 						"$NodeId":	"Occurrence.Positions-3c23ff01-2c04-41f7-b96a-5ef77e4eb29c",
 						"Type":	"Occurrence",
-						"ExportAs":	"Beta_CaveFolliage_1",
+						"ExportAs":	"Pillarfjell_CaveFolliage_1",
 						"Skip":	false,
 						"Seed":	"A",
 						"FieldFunction":	{
@@ -3751,7 +3751,7 @@
 				"Positions":	{
 					"$NodeId":	"Imported.Positions-7b5602d5-84ff-4735-a625-39fce8961574",
 					"Type":	"Imported",
-					"Name":	"Beta_CaveFolliage_1",
+					"Name":	"Pillarfjell_CaveFolliage_1",
 					"Skip":	false
 				},
 				"Prop":	{
@@ -4338,7 +4338,7 @@
 								"$NodeId":	"Imported.Pattern-7e20c06c-5513-4e9c-8150-fa34ccf712f6",
 								"Type":	"Imported",
 								"Skip":	false,
-								"Name":	"Grass_Blockset_Beta"
+								"Name":	"Grass_Blockset_Pillarfjell"
 							}
 						}
 					},
@@ -4848,7 +4848,7 @@
 								"$NodeId":	"Imported.Pattern-ace6c06c-a034-4e77-9d47-bc496697e8b5",
 								"Type":	"Imported",
 								"Skip":	false,
-								"Name":	"Grass_Blockset_Alpha"
+								"Name":	"Grass_Blockset_MarbleGroves"
 							}
 						}
 					},
@@ -12508,7 +12508,7 @@
 				"$NodeId":	"Imported.Density-c05e30be-6e08-411e-a218-95760906ac2b",
 				"Type":	"Imported",
 				"Skip":	false,
-				"Name":	"MainTerrainBeta"
+				"Name":	"MainTerrainPillarfjell"
 			}, {
 				"$NodeId":	"Delimiter.DensitySelector.Prop-ef0b2c6b-a824-406e-9957-a07d016aad2b",
 				"Prop":	{

@@ -1832,7 +1832,7 @@
 				"Positions":	{
 					"$NodeId":	"Occurrence.Positions-44217071-27d3-4bb8-8a42-2f01eb0d8c04",
 					"Type":	"Occurrence",
-					"ExportAs":	"Beta_CaveFolliage_1",
+					"ExportAs":	"Pillarfjell_CaveFolliage_1",
 					"Skip":	false,
 					"Seed":	"A",
 					"FieldFunction":	{
@@ -7947,7 +7947,7 @@
 				"$NodeId":	"Imported.Density-13287d3a-ead6-4be2-b45c-df609c61b6e6",
 				"Type":	"Imported",
 				"Skip":	false,
-				"Name":	"MainTerrainBeta"
+				"Name":	"MainTerrainPillarfjell"
 			}, {
 				"$NodeId":	"Delimiter.DensitySelector.Prop-30a3bb70-653d-408f-98f3-c64f5b5df923",
 				"Prop":	{

@@ -2859,7 +2859,7 @@
             }
           },
           "BlockSpawner": {
-            "BlockSpawnerId": "Zone1_Encounters_Tier4"
+            "BlockSpawnerId": "Zone3_Encounters_Tier1"
           }
         }
       }
@@ -6694,7 +6694,7 @@
         },
         "UUID": {
           "UUID": {
-            "$binary": "U/TB5du0PIuwXbIuavX/Pg==",
+            "$binary": "hUTHX/HeOEmAxV4WtmiV1A==",
             "$type": "04"
           }
         },
@@ -6740,7 +6740,7 @@
         },
         "UUID": {
           "UUID": {
-            "$binary": "Xdd6YROdNByV2PpZqVXNYA==",
+            "$binary": "YIYOo1eyNjWTfmfRiGtZLA==",
             "$type": "04"
           }
         },
