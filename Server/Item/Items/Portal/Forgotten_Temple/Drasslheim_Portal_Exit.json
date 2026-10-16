@@ -1,9 +1,9 @@
 {
   "TranslationProperties": {
-    "Name": "server.items.Forgotten_Temple_Portal_Exit.name",
-    "Description": "server.items.Forgotten_Temple_Portal_Exit.description"
+    "Name": "Drasslheim Exit Portal",
+    "Description": "Use to leave Drasslheim"
   },
-  "Icon": "Icons/ItemsGenerated/Portal_Return.png",
+  "Icon": "Icons/ItemsGenerated/Drasslheim_Portal_Exit.png",
   "Categories": [
     "Blocks.Portals"
   ],
@@ -68,11 +68,11 @@
     "Scale": 0.35,
     "Rotation": [
       22.5,
-      45.0,
+      45,
       22.5
     ],
     "Translation": [
-      0.0,
+      0,
       -13.5
     ]
   },
